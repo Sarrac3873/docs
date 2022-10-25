@@ -160,7 +160,7 @@
     "object-hash": "^2.1.1",
     "postcss": "^8.3.0",
     "prettier": "^2.3.0",
-    "replace": "^1.2.1",
+    "replace": "^1.2.2",
     "resolve-url-loader": "^4.0.0",
     "rimraf": "^3.0.2",
     "robots-parser": "^2.3.0",
