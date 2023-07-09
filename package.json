@@ -155,7 +155,7 @@
     "mock-express-response": "^0.3.0",
     "mockdate": "^3.0.5",
     "nock": "^13.0.11",
-    "nodemon": "^2.0.7",
+    "nodemon": "^3.0.0",
     "npm-merge-driver-install": "^2.0.1",
     "object-hash": "^2.1.1",
     "postcss": "^8.3.0",
