@@ -34,7 +34,7 @@
     "csurf": "^1.11.0",
     "dayjs": "^1.10.4",
     "dotenv": "^9.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-rate-limit": "^5.2.6",
     "express-timeout-handler": "^2.2.0",
     "flat": "^5.0.2",
