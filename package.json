@@ -99,7 +99,7 @@
     "@babel/core": "^7.14.3",
     "@babel/eslint-parser": "^7.14.3",
     "@babel/plugin-transform-runtime": "^7.14.3",
-    "@babel/preset-env": "^7.14.2",
+    "@babel/preset-env": "^7.22.0",
     "@graphql-inspector/core": "^2.5.0",
     "@graphql-tools/load": "^6.2.8",
     "@octokit/rest": "^18.5.3",
